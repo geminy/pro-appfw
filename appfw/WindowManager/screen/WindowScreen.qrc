@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/WindowManager">
+        <file>InitScreen.qml</file>
+    </qresource>
+</RCC>
